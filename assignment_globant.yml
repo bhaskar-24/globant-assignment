@@ -216,7 +216,7 @@ Resources:
       RuleNumber: "100"
       Protocol: "-1"
       RuleAction: "allow"
-      Egress: "false"
+      Egress: "true"
       CidrBlock: "0.0.0.0/0"
       PortRange:
         From: "0"
